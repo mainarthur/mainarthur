@@ -1,2 +1,2 @@
-<p align="center"><a href="https://masterarthur.xyz"><img src="https://img.icons8.com/dotty/16/FFFFFF/resume-website.png"/>Portfolio</a></p>
+
 <p align="center"><a href="https://t.me/MasterArthur"><img src="https://img.icons8.com/material-outlined/16/FFFFFF/telegram-app.png"/>Telegram</a> <a href="mailto:work.masterarthur@gmail.com"><img src="https://img.icons8.com/material-outlined/16/FFFFFF/gmail-new.png"/> Gmail</a> <a href="https://www.linkedin.com/in/masterarthur/"><img src="https://img.icons8.com/material-outlined/16/FFFFFF/linkedin--v1.png"/> Linkedin</a></p>
